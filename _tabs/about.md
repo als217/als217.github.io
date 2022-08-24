@@ -144,7 +144,7 @@ After graduating, I aspire to be an expert in cyber security, especially in pene
 
 * GreenAccess
 : Senior Project
-: Use Raspberry Pi and python to build an electronic gate using ML. To compare the face with some features on the Tawakkalna appp.
+: Use Raspberry Pi and python to build an electronic gate using ML. To compare the face with some features on the Tawakkalna app.
 * ML classfication
 :  classfication.py
 : A Python script takes a set of data and performs the classification process using several algorithms.
