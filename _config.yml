@@ -30,6 +30,7 @@ description: >-                        # used by seo meta and the atom feed
  Penetration testing.
  CyberSecurity.
  Programming.
+ Hardware hacking.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://als217.github.io/'
@@ -88,7 +89,7 @@ theme_mode:  dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media-exp1.licdn.com/dms/image/C4E03AQEFii-tJ8i0mg/profile-displayphoto-shrink_400_400/0/1614750104559?e=1666828800&v=beta&t=moSd4mbXz42vz88WAFCAlvywa8kD3cjSzaHkKcdgIpc
+avatar: https://pbs.twimg.com/profile_images/1585732386758737923/uOEkODdB_400x400.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
