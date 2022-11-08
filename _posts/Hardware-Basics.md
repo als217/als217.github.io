@@ -6,3 +6,4 @@ tags: [Hardware]
 ---
 
 # Hardware Basics
+test for publish new blog
