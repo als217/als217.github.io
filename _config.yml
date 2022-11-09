@@ -13,14 +13,12 @@ baseurl: ''
 lang: en
 
 # Additional parameters for datetime localization, optional. › https://github.com/iamkun/dayjs/tree/dev/src/locale
-prefer_datetime_locale:
-
+#prefer_datetime_locale:
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Riyadh
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
-
 title: Abdullah Alharbi                         # the main title
 
 tagline: R3d T34ming   # it will display as the sub-title
@@ -82,11 +80,10 @@ theme_mode:  dark # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 'https://raw.githubusercontent.com/cotes2020/chirpy-images/main'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/66442659?s=400&u=054f7aa8a1b08dbb7c296c7f2178fc5b832455ab&v=4
-
+avatar: https://avatars.githubusercontent.com/u/66442659?s=400&u=8a2cb8a98023da487f9b6f8d945ca162d011f356&v=4
 
 # boolean type, the global switch for ToC in posts.
 toc: true

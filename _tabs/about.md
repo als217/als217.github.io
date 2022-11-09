@@ -74,6 +74,14 @@ I also have more than 2 years of experience in cyber security, penetration testi
 I have some soft and technical skills that set me apart, scroll down to see my degree, accomplishments, and more.
 After graduating, I aspire to be an expert in cyber security, especially in penetration testing, and to offer my skills and experience, albeit in a small way, to raise the level of protection in the Kingdom of Saudi Arabia.
 
+<!--Educaiton-->
+<blockquote>
+<h2 class="title">Education</h2>
+</blockquote>
+Bachelor's degree in Computer Engineering
+: Umm Al-Qura University
+
+
 <!--Experince-->
 <blockquote>
 <h2 class="title">Professional Experience</h2>
@@ -100,7 +108,7 @@ After graduating, I aspire to be an expert in cyber security, especially in pene
     <div class="card">
       <div class="info">
         <h4 class="title-timeline">2020-2021</h4>
-        <p><strong>Cybersecurity Manager<br>Careerscover</strong></p>
+        <p><strong>Cybersecurity Engineer<br>Careerscover</strong></p>
         <ul>
         <li>
         Discovered two critical vulnerabilities and more than 5 different vulnerabilities.
@@ -148,6 +156,9 @@ After graduating, I aspire to be an expert in cyber security, especially in pene
 * ML classfication
 :  classfication.py
 : A Python script takes a set of data and performs the classification process using several algorithms.
+* Malware Prediction
+: Participation in Monshaat Entrepreneurship Competition.
+: Use and analyze log data with several alhorithms for ransomware predication.
 
 <!--Certifications-->
 <blockquote>
@@ -156,7 +167,9 @@ After graduating, I aspire to be an expert in cyber security, especially in pene
 
 * eLearnSecurity Certified Professional Penetration Tester (eCPPTv2)
 : eLearnSecurity
-* eLearnSecurity Web Application Penetration Tester (eWPT)
+* eLearnSecurity Web Application Penetration Testing (eWPT)
+: eLearnSecurity
+* Study Web Application Penetration Testing eXtreme (eWPTX)
 : eLearnSecurity
 * Infromation security and Computer Network
 : Infosec4TC
@@ -173,17 +186,17 @@ After graduating, I aspire to be an expert in cyber security, especially in pene
 <h2 class="title">Technical skills</h2>
 </blockquote>
 
-* Python coder and familiar with c++, BASH and javascript.
+* Python coder and familiar with c++, BASH and PHP.
 * Professional Reporting.
-* Basics Full-stack with python.
 * Web penetration security testing (Dynamic, Static).
 * Experienced with the Networks/Networks penetration testing fundamentals.
-* Figma application.
+* Basics on Hardware Security.
 * Fundametals with:
+: Reverse Engineering.
 : Linux & Windows Privileg esclation.
-: PHP Language.
-: code review.
-: windows x86 Buffer Overflows.
+: JavaScript Language.
+: Code review.
+: Windows x86 Buffer Overflows.
 : Markdown Basics.
 
 <!--Competitions & Participations-->
@@ -204,12 +217,6 @@ After graduating, I aspire to be an expert in cyber security, especially in pene
 : Umm Al-Qura University
 : Volunteering to summarize and explain two courses (networks, and information security).
 
-<!--Educaiton-->
-<blockquote>
-<h2 class="title">Education</h2>
-</blockquote>
-Bachelor's degree in Computer Engineering
-: Umm Al-Qura University
 
 <!--Personal skills-->
 <blockquote>
@@ -222,9 +229,10 @@ Bachelor's degree in Computer Engineering
 * Creativity.
 * Work within the team effectively and proficiently.
 
-<!--Accounts-->
+<!--Accounts
 <blockquote>
 <h2 class="title">Accounts</h2>
 </blockquote>
 * [Linkedin](https://www.linkedin.com/in/als-alharbi/)
 * [Twitter](https://twitter.com/Als_alharbi)
+-->
