@@ -5,13 +5,16 @@ categories: [Linux Commands]
 tags: [Red team]     # TAG names should always be lowercase
 ---
 
-<div style="text-align:center">
+<div markdown="1" style="text-align:center; font-size: 15pt;">
 السلام عليكم ورحمة الله وبركاتة
 <br><br>
 
 # Cover Your Tracks
 
 </div>
+
+<div align="right" markdown="1" style="font-size: 15pt; color: white;">
+
 بعد كل عملية اختبار اختراق او (Red Teaming) ممكن تحتاج تخفي اثرك وهنا بكتب بعض الاوامر الي ممكن إنها تساعدك. (^_^)
 <br><br>
 
@@ -28,7 +31,9 @@ echo "" > ~/.bash_history
 <br><br>
 
 ```Bash
+
 rm ~/.bash_history -rf
+
 ```
 بحذف الملف `.bash_history` كليًا
 <br><br>
@@ -73,3 +78,5 @@ unset HISTFILE
 ان شاء الله انك استفدت معلومة ولو بسيطة<br>
 شاكر لك مرورك🖤
 <div>
+
+</div>
